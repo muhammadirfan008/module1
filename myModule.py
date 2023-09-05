@@ -8,6 +8,9 @@ person1 = {
     "country": "Malaysia"
 }
 person2 = {
+    "name": "Sufiah",
+    "age": 20,
+    "country": "Malaysia"
 
 }
 person3 = {
@@ -15,4 +18,3 @@ person3 = {
     "age": "20",
     "country": 'Malaysia'
 }
-
