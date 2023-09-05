@@ -1,9 +1,9 @@
-def moduleIrfan(name):
+def moduleSufiah(name):
     print("Hello," + name)
 
-
-person1 = {
-    "name": "irfan",
+person2 = {
+    "name": "Sufiah",
     "age": 20,
     "country": "Malaysia"
+
 }
